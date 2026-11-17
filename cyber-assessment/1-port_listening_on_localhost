@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+nc -lvn -s 127.0.0.2 -p 98
+
